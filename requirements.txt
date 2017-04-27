@@ -1,0 +1,4 @@
+Django==1.9.5
+django-autocomplete-light==3.2.4
+django-debug-toolbar==1.7
+django-extensions==1.7.8
